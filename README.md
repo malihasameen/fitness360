@@ -1,2 +1,2 @@
-# fitness360
+# Fitness360
 Automated Gym Management System
